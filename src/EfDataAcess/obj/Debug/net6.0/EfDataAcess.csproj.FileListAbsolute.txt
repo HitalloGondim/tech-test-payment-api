@@ -1,0 +1,12 @@
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\bin\Debug\net6.0\EfDataAcess.deps.json
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\bin\Debug\net6.0\EfDataAcess.dll
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\bin\Debug\net6.0\EfDataAcess.pdb
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\EfDataAcess.csproj.AssemblyReference.cache
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\EfDataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\EfDataAcess.AssemblyInfoInputs.cache
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\EfDataAcess.AssemblyInfo.cs
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\EfDataAcess.csproj.CoreCompileInputs.cache
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\EfDataAcess.dll
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\refint\EfDataAcess.dll
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\EfDataAcess.pdb
+D:\Projetos\tech-test-payment-api\src\EfDataAcess\obj\Debug\net6.0\ref\EfDataAcess.dll
