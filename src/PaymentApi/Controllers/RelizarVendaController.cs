@@ -31,6 +31,7 @@ namespace PaymentApi.Controllers
                 _db.Itens.Add(item);
             }
 
+            venda.Status = EnumStatusVenda.AguardandoPagamento;
             _db.Vendas.Add(venda);
             _db.SaveChanges();
             return Ok(venda);
