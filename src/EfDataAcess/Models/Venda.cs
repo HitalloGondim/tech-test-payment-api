@@ -9,8 +9,10 @@ namespace EfDataAcess.Models
         [Required]
         public DateTime Data { get; set; } = new DateTime();
 
+        [Required]
         public Vendedor VendedorVenda { get; set; } = new Vendedor();
 
+        [Required]
         public List<Item> Itens { get; set; } = new List<Item>();
 
         [Required]
